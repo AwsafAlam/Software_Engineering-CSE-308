@@ -3,3 +3,4 @@ fg
 Hello World
 
 feature 1 added
+featurre 1 is cool
