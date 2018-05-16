@@ -5,7 +5,7 @@ public class Rent_A_Vehicle {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-
+        System.out.println("Enter the seating , and any Addons e.g (Air Condition, Tools :-)");
         int Seating = sc.nextInt();
         String Aircond = sc.next();
 
