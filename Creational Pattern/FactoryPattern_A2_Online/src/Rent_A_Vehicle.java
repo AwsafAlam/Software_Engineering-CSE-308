@@ -9,6 +9,7 @@ public class Rent_A_Vehicle {
         int Seating = sc.nextInt();
         String Aircond = sc.next();
 
+
         String tools = sc.next();
 
         VehicleFactory vehicleFactory = new VehicleFactory();
