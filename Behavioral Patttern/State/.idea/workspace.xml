@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82c91c18-ef80-4c26-b3bf-1762138ec70b" name="Default" comment="" />
+    <list default="true" id="cf4577b4-7db9-40bc-9bed-d8fca231037f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,71 +12,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ConcreteMediator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ConcreteMediator.java">
+      <file leaf-file-name="StatePatternExecute.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/StatePatternExecute.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+            <state relative-caret-position="209">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Context.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Context.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#723#724#0" expanded="true" />
-                <element signature="e#761#762#0" expanded="true" />
-                <element signature="e#442#443#0" expanded="true" />
-                <element signature="e#482#483#0" expanded="true" />
+                <element signature="e#78#79#0" expanded="true" />
+                <element signature="e#106#107#0" expanded="true" />
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Scenario_2.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Scenario_2.iml">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="State.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/State.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Student.java">
+      <file leaf-file-name="StartState.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/StartState.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+            <state relative-caret-position="76">
+              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
               <folding>
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#175#176#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Friend.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Friend.java">
+      <file leaf-file-name="StopState.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/StopState.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            <state relative-caret-position="76">
+              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
               <folding>
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#306#307#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
-                <element signature="e#378#379#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MediatorPatternExecute.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MediatorPatternExecute.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="37" column="23" lean-forward="true" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Class_Representative.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Class_Representative.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-              <folding>
-                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#244#245#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -84,14 +75,22 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ConcreteMediator.java" />
-        <option value="$PROJECT_DIR$/src/Friend.java" />
-        <option value="$PROJECT_DIR$/src/Student.java" />
-        <option value="$PROJECT_DIR$/src/Class_Representative.java" />
-        <option value="$PROJECT_DIR$/src/MediatorPatternExecute.java" />
+        <option value="$PROJECT_DIR$/src/Context.java" />
+        <option value="$PROJECT_DIR$/src/State.java" />
+        <option value="$PROJECT_DIR$/src/StopState.java" />
+        <option value="$PROJECT_DIR$/src/StartState.java" />
+        <option value="$PROJECT_DIR$/src/StatePatternExecute.java" />
       </list>
     </option>
   </component>
@@ -104,35 +103,35 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="828" />
-    <option name="width" value="1092" />
-    <option name="height" value="1073" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="y" value="-2" />
+    <option name="width" value="960" />
+    <option name="height" value="1082" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Scenario_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scenario_2" type="462c0819:PsiDirectoryNode" />
+              <item name="State" type="b2602c69:ProjectViewProjectNode" />
+              <item name="State" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Scenario_2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scenario_2" type="462c0819:PsiDirectoryNode" />
+              <item name="State" type="b2602c69:ProjectViewProjectNode" />
+              <item name="State" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -142,8 +141,8 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -159,9 +158,9 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="MediatorPatternExecute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MediatorPatternExecute" />
-      <module name="Scenario_2" />
+    <configuration name="StatePatternExecute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StatePatternExecute" />
+      <module name="State" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -207,7 +206,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MediatorPatternExecute" />
+        <item itemvalue="Application.StatePatternExecute" />
       </list>
     </recent_temporary>
   </component>
@@ -216,21 +215,20 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="82c91c18-ef80-4c26-b3bf-1762138ec70b" name="Default" comment="" />
-      <created>1528705161705</created>
+      <changelist id="cf4577b4-7db9-40bc-9bed-d8fca231037f" name="Default" comment="" />
+      <created>1528730813620</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1528705161705</updated>
-      <workItem from="1528705168647" duration="7808000" />
+      <updated>1528730813620</updated>
+      <workItem from="1528730817597" duration="1219000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7808000" />
+    <option name="totallyTimeSpent" value="1219000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="828" y="0" width="1092" height="1073" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="-2" width="960" height="1082" extended-state="4" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -241,20 +239,20 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32908705" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32597265" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23518164" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2702407" />
       <window_info anchor="right" id="Database" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32908705" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
       <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -269,71 +267,65 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Friend1.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Mediator.java">
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ConcreteMediator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        <state relative-caret-position="305">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#723#724#0" expanded="true" />
-            <element signature="e#761#762#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scenario_2.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Friend.java">
+    <entry file="file://$PROJECT_DIR$/src/Context.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        <state relative-caret-position="152">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
           <folding>
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#78#79#0" expanded="true" />
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Student.java">
+    <entry file="file://$PROJECT_DIR$/src/State.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        <state relative-caret-position="19">
+          <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StartState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
           <folding>
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Class_Representative.java">
+    <entry file="file://$PROJECT_DIR$/src/StopState.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        <state relative-caret-position="76">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
           <folding>
-            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MediatorPatternExecute.java">
+    <entry file="file://$PROJECT_DIR$/src/StatePatternExecute.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="37" column="23" lean-forward="true" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
