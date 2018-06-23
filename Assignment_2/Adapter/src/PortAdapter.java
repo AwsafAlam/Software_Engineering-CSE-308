@@ -2,11 +2,16 @@ import Interface.Device;
 import Interface.ExternalPort;
 import Port.*;
 
+import java.util.List;
+
 public class PortAdapter implements Device {
 
     ExternalPort externalDongle;
 
+
+
     public PortAdapter(String PortType) {
+
         if (PortType.equalsIgnoreCase("usbv2.0")){
             externalDongle = new USBv2();
         }
@@ -25,7 +30,6 @@ public class PortAdapter implements Device {
         else if (PortType.equalsIgnoreCase("hdmi")){
             externalDongle = new HDMI();
         }
-
 
     }
 

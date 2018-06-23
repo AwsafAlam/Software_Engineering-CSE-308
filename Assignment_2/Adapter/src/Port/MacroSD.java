@@ -32,4 +32,9 @@ public class MacroSD implements ExternalPort {
     public void InsertSD(String Devicename) {
         System.out.println("New External Device : "+Devicename+" detected at USBv2.0 port");
     }
+
+    @Override
+    public void InsertUSB_C(String Devicename) {
+
+    }
 }

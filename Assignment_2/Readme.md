@@ -11,7 +11,7 @@ Apple CEO Tim Cook just announced the new Mac Book Pro 2018. Being an Apple fan 
 5. SD card reader
 6. USB-C thumbdrive
 
-I also need a way to plug in my Ethernet cable for *High Speed* internet and an extra USB-C port for charging my Mac.
+I also need a way to plug in my Ethernet cable for *High Speed* internet.
 
 *There are various dongles available in the market. Only 3 were sufficient to fullfill my needs. Each one had a various number of ports.*
 
@@ -24,7 +24,7 @@ A Software takes the device and Port as input & outputs the which Dongle to be u
 ---
 ### Design Pattern used
 - ##### Adapter
-- 
+-
 
 ---
 ### Sample I/O

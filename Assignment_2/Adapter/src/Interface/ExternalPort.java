@@ -7,5 +7,6 @@ public interface ExternalPort {
     public void InsertHDMI(String Devicename);
     public void InsertThunderbolt(String Devicename);
     public void InsertSD(String Devicename);
+    public void InsertUSB_C(String Devicename);
 
 }

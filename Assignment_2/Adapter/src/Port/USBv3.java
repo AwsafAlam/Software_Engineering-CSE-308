@@ -32,4 +32,9 @@ public class USBv3 implements ExternalPort {
     public void InsertSD(String Devicename) {
 
     }
+
+    @Override
+    public void InsertUSB_C(String Devicename) {
+
+    }
 }

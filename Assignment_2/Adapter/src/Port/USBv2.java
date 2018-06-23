@@ -33,4 +33,9 @@ public class USBv2 implements ExternalPort {
     public void InsertSD(String Devicename) {
 
     }
+
+    @Override
+    public void InsertUSB_C(String Devicename) {
+
+    }
 }
