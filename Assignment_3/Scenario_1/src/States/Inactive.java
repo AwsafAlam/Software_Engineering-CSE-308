@@ -18,7 +18,7 @@ public class Inactive implements State {
     @Override
     public void showInventory() {
         vendingInventory.Show();
-    }
+}
 
     @Override
     public void itemSelect() {

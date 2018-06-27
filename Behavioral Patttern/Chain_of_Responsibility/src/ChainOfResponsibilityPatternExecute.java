@@ -3,7 +3,6 @@ public class ChainOfResponsibilityPatternExecute {
 
 
     public static void main(String[] args) {
-        System.out.println("Hello World");
 
         //Start chain
         IReceiver faxHandler, emailHandler;
