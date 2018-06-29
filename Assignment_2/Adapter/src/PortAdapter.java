@@ -2,8 +2,6 @@ import Interface.Device;
 import Interface.ExternalPort;
 import Port.*;
 
-import java.util.List;
-
 public class PortAdapter implements Device {
 
     ExternalPort externalDongle;

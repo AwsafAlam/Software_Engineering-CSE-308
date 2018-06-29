@@ -10,11 +10,10 @@ public class ExternalDevice implements Device {
 
     @Override
     public void Insert(String DeviceName, String PortType) {
-        DeviceCount++;
+
         if (PortType.equalsIgnoreCase("usb-c") && DeviceCount < 2){
+            DeviceCount++;
             System.out.println("New External Device : "+ DeviceName +" detected at USB-C port");
-//            ExternalPort port = new USB_C();
-//            port.InsertUSB_C(DeviceName);
 
         }
         else if(PortType.equalsIgnoreCase("usbv2.0")
@@ -24,10 +23,14 @@ public class ExternalDevice implements Device {
                 ||PortType.equalsIgnoreCase("ethernet")
                 ||PortType.equalsIgnoreCase("hdmi")){
 
+            DeviceCount++;
             portAdapter = new PortAdapter(PortType);
             portAdapter.Insert(DeviceName , PortType);
         }
-        else if(DeviceCount >= 2 && (PortType.equalsIgnoreCase("usbv2.0")
+        else if(DeviceCount >= 2 ){
+            System.out.println("Laptop does not have more than two ports");
+        }
+        else if( (PortType.equalsIgnoreCase("usbv2.0")
                 ||PortType.equalsIgnoreCase("usbv3.0")
                 ||PortType.equalsIgnoreCase("thunderbolt")
                 ||PortType.equalsIgnoreCase("sd")

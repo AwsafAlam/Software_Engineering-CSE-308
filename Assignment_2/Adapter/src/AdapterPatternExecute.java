@@ -12,6 +12,7 @@ public class AdapterPatternExecute{
 			System.out.println("Insert External Device :");
 
 			String DeviceName = sc.next();
+			System.out.println("\nEnter Port Name\n");
 			String Port = sc.next();
 
 			externalDevice.Insert(DeviceName, Port);
