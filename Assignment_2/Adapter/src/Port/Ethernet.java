@@ -3,6 +3,21 @@ package Port;
 import Interface.ExternalPort;
 
 public class Ethernet implements ExternalPort {
+    public String getDevivename() {
+        return Devivename;
+    }
+
+    public void setDevivename(String devivename) {
+        Devivename = devivename;
+    }
+
+    public Ethernet(String devivename) {
+
+        Devivename = devivename;
+    }
+
+    private String Devivename;
+
     @Override
     public void InsertEthernet(String Devicename) {
         System.out.println("New External Device : "+Devicename+" detected at Ethernet port");

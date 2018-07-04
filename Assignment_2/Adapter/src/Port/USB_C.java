@@ -3,6 +3,20 @@ package Port;
 import Interface.ExternalPort;
 
 public class USB_C implements ExternalPort {
+    public String getDevivename() {
+        return Devivename;
+    }
+
+    public void setDevivename(String devivename) {
+        Devivename = devivename;
+    }
+
+    private String Devivename;
+
+    public USB_C(String deviceName) {
+        Devivename = deviceName;
+    }
+
     @Override
     public void InsertEthernet(String Devicename) {
 

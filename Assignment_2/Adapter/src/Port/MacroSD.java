@@ -3,6 +3,21 @@ package Port;
 import Interface.ExternalPort;
 
 public class MacroSD implements ExternalPort {
+    private String Devivename;
+
+    public String getDevivename() {
+        return Devivename;
+    }
+
+    public void setDevivename(String devivename) {
+        Devivename = devivename;
+    }
+
+    public MacroSD(String devivename) {
+
+        Devivename = devivename;
+    }
+
     @Override
     public void InsertEthernet(String Devicename) {
 
